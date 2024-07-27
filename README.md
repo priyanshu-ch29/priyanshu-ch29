@@ -1,7 +1,5 @@
 <h2 align="center">Priyanshu Choudhary🚀 <br><br>I'm a Front-End Developer.</h2>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=priyanshu-ch29.priyanshu-ch29&right_color=limegreen&left_text=Profile%20Views"  />
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/priyanshu-ch29/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
