@@ -1,9 +1,4 @@
 <h2 align="center">Priyanshu Choudhary🚀 <br><br>I'm a Front-End Developer.</h2>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=priyanshu-ch29.priyanshu-ch29&right_color=limegreen&left_text=Profile%20Views"  />
-
 ###
 
 <div align="left">
